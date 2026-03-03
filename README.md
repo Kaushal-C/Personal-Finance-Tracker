@@ -1,6 +1,6 @@
 Personal Finance Tracker
 
-A full-stack web application to track your income and expenses with a clean and interactive dashboard.
+A MERN-stack web application to track your income and expenses with a clean and interactive dashboard.
 The app also includes a basic health checker module and secure user authentication system.
 
 Built using:
