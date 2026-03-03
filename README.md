@@ -55,7 +55,7 @@ FinancialTracker/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/fintracker.git
+git clone https://github.com/your-username/financialtracker.git
 cd fintracker
 2️⃣ Setup Backend
 cd server
