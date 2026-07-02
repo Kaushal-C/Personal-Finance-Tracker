@@ -71,7 +71,7 @@ Start the backend server:
 
 npm start
 3️⃣ Setup Frontend
-cd client
+cd frontend
 npm install
 npm start
 
